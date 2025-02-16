@@ -1,7 +1,3 @@
-Absolutely! Here are **3 functional programming projects** and **3 object-oriented programming (OOP) projects** in JavaScript. These projects will help you (or your students) practice and solidify the concepts of both paradigms.
-
----
-
 ### **Functional Programming Projects**
 
 Functional programming emphasizes **pure functions**, **immutability**, and **higher-order functions**. These projects focus on those principles.
